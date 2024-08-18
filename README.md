@@ -1,6 +1,3 @@
-Here’s the humanized and enriched version with more images and a conversational tone.
-
----
 
 # Controlling YouTube Player with Hand Gestures
 
